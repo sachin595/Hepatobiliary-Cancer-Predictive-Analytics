@@ -71,7 +71,7 @@ def predict(inputs):
 
 
 # Streamlit user interface
-st.title('Predictive Analytics for Hepatobiliary and Pancreatic Cancers')
+st.title('Predictive Analytics for Hepatobiliary Cancer')
 
 # Creating form for input
 with st.form(key='prediction_form'):
