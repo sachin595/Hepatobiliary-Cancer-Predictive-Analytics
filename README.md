@@ -32,7 +32,9 @@ Advanced LSTM-Based Predictive Modeling for Mortality Rates in Hepatobiliary Can
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Hepatobiliary Cancer** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+Effectively predicting mortality rates in **hepatobiliary cancers** is crucial for improving patient care and optimizing treatment strategies. This study utilizes Long Short-Term Memory (LSTM) neural networks to create advanced predictive models based on detailed demographic data.
+
+The LSTM model is designed to estimate two key health metrics: **Crude Mortality Rate** (the annual number of deaths per 100,000 individuals) and **Survival Rate** (the percentage likelihood of survival). By incorporating a comprehensive dataset with demographic and temporal variables such as **age, sex, ethnicity, race, and year**, the model provides meaningful insights into health outcomes. These predictions aim to empower healthcare professionals to make better-informed decisions, reduce disparities, and deliver personalized care for individuals with hepatobiliary cancers.
 
 Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Hepatobiliary Cancer** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
 
